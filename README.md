@@ -1,7 +1,7 @@
 # PF-Python-Pro
 CONTRIBUIR AL CAMBIO CLIMATICO
 
-Existen personas confundidas que al dia de hoy no saben bien como separar la basura. Este chatbot de discord soluciona este problema, diciendo que basura puede ser reciclada y cual no.
+Existen personas confundidas que al dia de hoy no saben bien como separar la basura. Esta pagina web soluciona este problema, diciendo que basura puede ser reciclada y cual no.
 
 
 # FUNCIONALIDADES
@@ -11,6 +11,8 @@ Existen personas confundidas que al dia de hoy no saben bien como separar la bas
 # REQUISITOS
 1-PYTHON
 
-2-GOOGLE TEACHABLE MACHINE
+2-FLASK
 
-3-DISCORD
+3-GOOGLE TEACHABLE MACHINE
+
+4- UN NAVEGADOR
