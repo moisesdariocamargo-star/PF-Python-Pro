@@ -1,3 +1,0 @@
-0 Reciclable
-1 No Reciclable
-2 Dispositivos Electronicos
